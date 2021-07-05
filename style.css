@@ -81,3 +81,12 @@ h2{
     border-image: linear-gradient(rgb(245, 3, 193),rgb(82, 253, 3));
     border-image-slice: 1;
 }
+/* profile3 ends here */
+
+/* footer starts here  */
+footer{
+    font-size: 25px;
+    font-weight: 900;
+    text-align: center;
+    
+}
